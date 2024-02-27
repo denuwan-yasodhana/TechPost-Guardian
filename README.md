@@ -2,8 +2,6 @@
 
 This project addresses a common concern about the security of items and goods in mailboxes. The primary motivation behind its creation is to combat theft perpetrated by third parties after a clerk has deposited items/goods in their respective mailboxes. In today's world, where convenience meets vulnerability, mail theft has become a pressing issue. Our project aims to fill this gap by incorporating embedded technologies to enhance the security of the entire mailbox system.
 
-### Flow chart Diagram
-
 ### Project Prototype
 
 
